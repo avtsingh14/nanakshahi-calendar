@@ -2,7 +2,7 @@
 
 This is an open-source, digital version of the Nanakshahi Calendar, based on the official calendar provided by the SGPC. You can easily subscribe to this calendar to get all the important dates and events automatically added to your personal calendar on your phone or computer.
 
-**The public calendar link is:** `https://<your-username>.github.io/nanakshahi-calendar/nanakshahi.ics`
+**The public calendar link is:** `https://avtsingh14.github.io/nanakshahi-calendar/nanakshahi.ics`
 
 ---
 
